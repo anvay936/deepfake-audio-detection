@@ -63,6 +63,7 @@ Also on [Kaggle](https://www.kaggle.com/code/gixo95/deepfake-audio-detection-cod
 git clone https://github.com/<your-username>/deepfake-audio-detection.git
 cd deepfake-audio-detection
 jupyter notebook deepfake_audio_detection.ipynb
+```
 
 ## 📊 Results (MLP Classifier on FoR-Rerecorded Subset)
 
